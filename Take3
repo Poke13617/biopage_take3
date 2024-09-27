@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Bio Page</title>
+    </head>
+    <body>
+        <h1>ALL ABOUT ME</h1>
+            <p> I am a student at Saint Lawrence Lewis BOCES. My interests include gaming, chatting with friends, and <br> working on group projects</p>
+
+    </body>
+   
+    <table>
+        <thead>
+            <tr>
+                <th>Favorite Hobbies</th>
+                <th>Least Favorite Hobbies</th>
+                <th>Current School Activities</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Retro Game Collecting</td><br>
+                <td>Basic Sports</td><br>
+                <td>Jazz band</td>
+            </tr>
+            <tr>
+                <td>Rhythm Games</td>
+        <td>Listening to people's problems</td>
+        <td>Esports</td>  
+            </tr>
+            
+        
+        </tbody>
+     </table>
+     </body>
+
+
+
+     <p>I don't know what else to add, so here are a few pictures of my cat!</p>
+     <img src="images/thumbnail_IMG_1791.jpg" height="150" width="100">
+      <br>
+    <img src="images/IMG_0074.JPG" height="150" width="100">
+     <p><em>Useful Sites For School: <br><a href="https://classroom.google.com/h"> Google Classroom!</a></em></p>
+    <p><em><a href= "https://codehs.com/student/5701313/section/576106/assignments"> codehs</a></em></p>
+    <p><em><a href= "https://github.com/"> GITHUB</a></em></p>
+    <p>Email for questions</p><a href="https://outlook.office.com/mail/"><img src="https://cdn.pixabay.com/photo/2016/01/26/17/15/gmail-1162901_1280.png" height="150" width="150"></a><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p>Credits for the Gmail logo go to pfpiovanni, <a href="https://pixabay.com/service/license-summary/">License Summary</a></p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p>why are you still here?</p>
+<img src="images/IMG_1793.jpg">
+<a href="https://www.youtube.com/@pokeplayer2929?app=desktop"><p>Youtube</p></a> <br> <p>here's my youtube then. Congrats I guess?</p>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+ <br>
+ <p>Fine, here's one more picture of my cat... Just leave now</p>
+ <img src="images/74335664818__EE1DDE43-4BD7-4F42-B205-58CD73854A7E.jpg" height="100" width="150">
+</html>
